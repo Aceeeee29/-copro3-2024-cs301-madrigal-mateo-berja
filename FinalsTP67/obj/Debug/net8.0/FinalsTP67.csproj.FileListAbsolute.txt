@@ -1,0 +1,64 @@
+C:\Users\The Ruined Ping\source\repos\FinalsTP67\FinalsTP67\obj\Debug\net8.0\FinalsTP67.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The Ruined Ping\source\repos\FinalsTP67\FinalsTP67\obj\Debug\net8.0\FinalsTP67.AssemblyInfoInputs.cache
+C:\Users\The Ruined Ping\source\repos\FinalsTP67\FinalsTP67\obj\Debug\net8.0\FinalsTP67.AssemblyInfo.cs
+C:\Users\The Ruined Ping\source\repos\FinalsTP67\FinalsTP67\obj\Debug\net8.0\FinalsTP67.csproj.CoreCompileInputs.cache
+C:\Users\The Ruined Ping\source\repos\FinalsTP67\FinalsTP67\bin\Debug\net8.0\FinalsTP67.exe
+C:\Users\The Ruined Ping\source\repos\FinalsTP67\FinalsTP67\bin\Debug\net8.0\FinalsTP67.deps.json
+C:\Users\The Ruined Ping\source\repos\FinalsTP67\FinalsTP67\bin\Debug\net8.0\FinalsTP67.runtimeconfig.json
+C:\Users\The Ruined Ping\source\repos\FinalsTP67\FinalsTP67\bin\Debug\net8.0\FinalsTP67.dll
+C:\Users\The Ruined Ping\source\repos\FinalsTP67\FinalsTP67\bin\Debug\net8.0\FinalsTP67.pdb
+C:\Users\The Ruined Ping\source\repos\FinalsTP67\FinalsTP67\obj\Debug\net8.0\FinalsTP67.dll
+C:\Users\The Ruined Ping\source\repos\FinalsTP67\FinalsTP67\obj\Debug\net8.0\refint\FinalsTP67.dll
+C:\Users\The Ruined Ping\source\repos\FinalsTP67\FinalsTP67\obj\Debug\net8.0\FinalsTP67.pdb
+C:\Users\The Ruined Ping\source\repos\FinalsTP67\FinalsTP67\obj\Debug\net8.0\FinalsTP67.genruntimeconfig.cache
+C:\Users\The Ruined Ping\source\repos\FinalsTP67\FinalsTP67\obj\Debug\net8.0\ref\FinalsTP67.dll
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP2\FinalsTP67\obj\Debug\net8.0\FinalsTP67.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP2\FinalsTP67\obj\Debug\net8.0\FinalsTP67.AssemblyInfoInputs.cache
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP2\FinalsTP67\obj\Debug\net8.0\FinalsTP67.AssemblyInfo.cs
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP2\FinalsTP67\obj\Debug\net8.0\FinalsTP67.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP2\FinalsTP67\obj\Debug\net8.0\FinalsTP67.dll
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP2\FinalsTP67\obj\Debug\net8.0\refint\FinalsTP67.dll
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP2\FinalsTP67\obj\Debug\net8.0\FinalsTP67.pdb
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP2\FinalsTP67\bin\Debug\net8.0\FinalsTP67.exe
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP2\FinalsTP67\bin\Debug\net8.0\FinalsTP67.deps.json
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP2\FinalsTP67\bin\Debug\net8.0\FinalsTP67.runtimeconfig.json
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP2\FinalsTP67\bin\Debug\net8.0\FinalsTP67.dll
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP2\FinalsTP67\bin\Debug\net8.0\FinalsTP67.pdb
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP2\FinalsTP67\obj\Debug\net8.0\FinalsTP67.genruntimeconfig.cache
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP2\FinalsTP67\obj\Debug\net8.0\ref\FinalsTP67.dll
+C:\Users\The Ruined Ping\Desktop\STI FILES\cp\FinalsTP67\bin\Debug\net8.0\FinalsTP67.exe
+C:\Users\The Ruined Ping\Desktop\STI FILES\cp\FinalsTP67\bin\Debug\net8.0\FinalsTP67.deps.json
+C:\Users\The Ruined Ping\Desktop\STI FILES\cp\FinalsTP67\bin\Debug\net8.0\FinalsTP67.runtimeconfig.json
+C:\Users\The Ruined Ping\Desktop\STI FILES\cp\FinalsTP67\bin\Debug\net8.0\FinalsTP67.dll
+C:\Users\The Ruined Ping\Desktop\STI FILES\cp\FinalsTP67\bin\Debug\net8.0\FinalsTP67.pdb
+C:\Users\The Ruined Ping\Desktop\STI FILES\cp\FinalsTP67\obj\Debug\net8.0\FinalsTP67.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The Ruined Ping\Desktop\STI FILES\cp\FinalsTP67\obj\Debug\net8.0\FinalsTP67.AssemblyInfoInputs.cache
+C:\Users\The Ruined Ping\Desktop\STI FILES\cp\FinalsTP67\obj\Debug\net8.0\FinalsTP67.AssemblyInfo.cs
+C:\Users\The Ruined Ping\Desktop\STI FILES\cp\FinalsTP67\obj\Debug\net8.0\FinalsTP67.csproj.CoreCompileInputs.cache
+C:\Users\The Ruined Ping\Desktop\STI FILES\cp\FinalsTP67\obj\Debug\net8.0\FinalsTP67.dll
+C:\Users\The Ruined Ping\Desktop\STI FILES\cp\FinalsTP67\obj\Debug\net8.0\refint\FinalsTP67.dll
+C:\Users\The Ruined Ping\Desktop\STI FILES\cp\FinalsTP67\obj\Debug\net8.0\FinalsTP67.pdb
+C:\Users\The Ruined Ping\Desktop\STI FILES\cp\FinalsTP67\obj\Debug\net8.0\FinalsTP67.genruntimeconfig.cache
+C:\Users\The Ruined Ping\Desktop\STI FILES\cp\FinalsTP67\obj\Debug\net8.0\ref\FinalsTP67.dll
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\bin\Debug\net8.0\FinalsTP67.exe
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\bin\Debug\net8.0\FinalsTP67.deps.json
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\bin\Debug\net8.0\FinalsTP67.runtimeconfig.json
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\bin\Debug\net8.0\FinalsTP67.dll
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\bin\Debug\net8.0\FinalsTP67.pdb
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\obj\Debug\net8.0\FinalsTP67.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\obj\Debug\net8.0\FinalsTP67.AssemblyInfoInputs.cache
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\obj\Debug\net8.0\FinalsTP67.AssemblyInfo.cs
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\obj\Debug\net8.0\FinalsTP67.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\obj\Debug\net8.0\FinalsTP67.dll
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\obj\Debug\net8.0\refint\FinalsTP67.dll
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\obj\Debug\net8.0\FinalsTP67.pdb
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\obj\Debug\net8.0\FinalsTP67.genruntimeconfig.cache
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\obj\Debug\net8.0\ref\FinalsTP67.dll
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\obj\Debug\net8.0\FinalsTP67.csproj.AssemblyReference.cache
+D:\PROGRAMMING\2ND YEAR COMPROG\FINALSTP3\FinalsTP67\obj\Debug\net8.0\FinalsTP67.csproj.Up2Date
